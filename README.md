@@ -1,16 +1,42 @@
-## Hi there 👋
+<img width="100%" src="./banner.gif" alt="Banner">
 
-<!--
-**Leticia-Arisa-K-Higa/Leticia-Arisa-K-Higa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 HELLO WORLD 👋
+<hr>
+<p>I'm Leticia, a software engineering student at the University of Brasília (UnB). I have a strong interest in information security, data analysis, artificial intelligence, and software development. I hope to contribute in the future with great technological innovations that can help simplify people's lives.<p>
+<hr>
+<br>
 
-Here are some ideas to get you started:
+# 🚀 Programming Languages 🚀
+<hr>
+<img src="https://skillicons.dev/icons?i=python" alt="Python"> <p>Basic knowledge<p>
+<br>
+<img src="https://skillicons.dev/icons?i=c" alt="C"> <p>Basic knowledge<p>
+<br>
+<img src="https://skillicons.dev/icons?i=css" alt="CSS"> <p>Basic knowledge<p>
+<br>
+<img src="https://skillicons.dev/icons?i=html" alt="HTML"> <p>Basic knowledge<p>
+<br>
+<img src="https://skillicons.dev/icons?i=dart" alt="Dart"> <p>Beginner<p>
+<br>
+<img src="https://img.shields.io/badge/RISC--V-blue?style=for-the-badge" alt="RISC-V"> <p>Beginner<p>
+<hr>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📖 Currently Learning 📖
+<hr>
+- PowerBI
+- SQL
+- Data Analytics Essentials
+- Introduction to Cybersecurity
+<hr>
+<br>
+
+# 📫 How to reach me:
+<hr>
+<a href="https://www.linkedin.com/in/leticia-higa-73ab8132b/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" class="icon">
+</a>
+<a href="mailto:higaleticia11@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" class="icon">
+</a>
+<hr>
