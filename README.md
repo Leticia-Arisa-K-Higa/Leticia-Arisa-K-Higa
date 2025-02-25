@@ -8,35 +8,45 @@
 
 # 🚀 Programming Languages 🚀
 <hr>
-<img src="https://skillicons.dev/icons?i=python" alt="Python"> <p>Basic knowledge<p>
-<br>
-<img src="https://skillicons.dev/icons?i=c" alt="C"> <p>Basic knowledge<p>
-<br>
-<img src="https://skillicons.dev/icons?i=css" alt="CSS"> <p>Basic knowledge<p>
-<br>
-<img src="https://skillicons.dev/icons?i=html" alt="HTML"> <p>Basic knowledge<p>
-<br>
-<img src="https://skillicons.dev/icons?i=dart" alt="Dart"> <p>Beginner<p>
-<br>
-<img src="https://img.shields.io/badge/RISC--V-blue?style=for-the-badge" alt="RISC-V"> <p>Beginner<p>
+<img src="https://skillicons.dev/icons?i=python" alt="Python">
+<img src="https://skillicons.dev/icons?i=c" alt="C"> 
+<img src="https://skillicons.dev/icons?i=css" alt="CSS"> 
+<img src="https://skillicons.dev/icons?i=html" alt="HTML">
+<img src="https://skillicons.dev/icons?i=dart" alt="Dart"> 
+<img src="https://img.shields.io/badge/RISC--V-blue?style=for-the-badge" alt="RISC-V">
 <hr>
 <br>
 
 # 📖 Currently Learning 📖
 <hr>
 - PowerBI
+<br>
 - SQL
+<br>
 - Data Analytics Essentials
+<br>
 - Introduction to Cybersecurity
 <hr>
 <br>
 
 # 📫 How to reach me:
 <hr>
+<style>
+    .icons {
+        display: flex;
+        gap: 15px;
+        align-items: center;
+    }
+    .icon {
+        width: 40px;
+        height: 40px;
+    }
+</style>
+
 <a href="https://www.linkedin.com/in/leticia-higa-73ab8132b/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" class="icon">
 </a>
-<a href="mailto:higaleticia11@gmail.com">
+<a href="higaleticia11@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" class="icon">
 </a>
 <hr>
